@@ -6,19 +6,11 @@
     <description>Recent content on Where Is Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jan 2020 20:11:27 +0100</lastBuildDate>
+    <copyright>Coucou</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Sat, 04 Jan 2020 20:11:27 +0100</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>Coucou</description>
-    </item>
     
     <item>
       <title>About</title>
@@ -38,17 +30,6 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
       
       <guid>/showcase/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>/posts/my-first-post-copy/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/my-first-post-copy/</guid>
-      <description> &amp;ldquo;Hello, friend?&amp;rdquo; That&#39;s lame. Maybe I should give you a name&amp;hellip; But that&#39;s a slippery slope. You&#39;re only in my head. We have to remember that&amp;hellip; Shit. It&#39;s actually happened. I&#39;m talking to an imaginary person.
-— Mr. Robot S01E01
- </description>
     </item>
     
   </channel>

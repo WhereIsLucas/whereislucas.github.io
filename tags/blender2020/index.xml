@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Where Is Lucas</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Where Is Lucas</description>
+    <title>blender2020 on Where Is Lucas</title>
+    <link>/tags/blender2020/</link>
+    <description>Recent content in blender2020 on Where Is Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
     <lastBuildDate>Sat, 04 Jan 2020 21:54:43 +0100</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/blender2020/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

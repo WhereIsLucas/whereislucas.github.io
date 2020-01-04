@@ -6,21 +6,21 @@
     <description>Recent content on Where Is Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Coucou</copyright>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <copyright> </copyright>
+    <lastBuildDate>Sat, 04 Jan 2020 21:54:43 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      <title>Blender 2020 - Week 1 - Escaping</title>
+      <link>/posts/blender2020-week1/</link>
+      <pubDate>Sat, 04 Jan 2020 21:54:43 +0100</pubDate>
       
-      <guid>/about/</guid>
-      <description>Hi there My name is Radek and I&#39;m the author of this theme. I made it to help you present your ideas easier.
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!</description>
+      <guid>/posts/blender2020-week1/</guid>
+      <description>I&#39;ll try to post 3D art every week here. This is the first creation I made this year with Blender.
+The main object with this project was to mess around with volumetrics lighting.
+This is rendered with eevee in Blender 2.8. I&#39;ll be happy to share the project files if asked!</description>
     </item>
     
     <item>
@@ -30,6 +30,18 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
       
       <guid>/showcase/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>My name is Lucas Houssa and I&#39;m a curious guy from Belgium.
+I&#39;m a physics student at University of Liège, and besides I&#39;m a backend webdev. I mainly work with Laravel.
+I&#39;m also a 3D enthusiast that loves to mess around with Blender.
+As I like to share what I make, I created this little blog.</description>
     </item>
     
   </channel>

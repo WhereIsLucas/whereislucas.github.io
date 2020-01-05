@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blender on Where Is Lucas</title>
-    <link>/tags/blender/</link>
+    <link>https://whereislucas.github.io/tags/blender/</link>
     <description>Recent content in blender on Where Is Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
     <lastBuildDate>Sat, 04 Jan 2020 21:54:43 +0100</lastBuildDate>
     
-	<atom:link href="/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://whereislucas.github.io/tags/blender/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blender 2020 - Week 1 - Escaping</title>
-      <link>/posts/blender2020-week1/</link>
+      <link>https://whereislucas.github.io/posts/blender2020-week1/</link>
       <pubDate>Sat, 04 Jan 2020 21:54:43 +0100</pubDate>
       
-      <guid>/posts/blender2020-week1/</guid>
+      <guid>https://whereislucas.github.io/posts/blender2020-week1/</guid>
       <description>I&#39;ll try to post 3D art every week here. This is the first creation I made this year with Blender.
 The main object with this project was to mess around with volumetrics lighting.
 This is rendered with eevee in Blender 2.8. I&#39;ll be happy to share the project files if asked!</description>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Where Is Lucas</title>
-    <link>/</link>
+    <link>https://whereislucas.github.io/</link>
     <description>Recent content on Where Is Lucas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
     <lastBuildDate>Sat, 04 Jan 2020 21:54:43 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://whereislucas.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blender 2020 - Week 1 - Escaping</title>
-      <link>/posts/blender2020-week1/</link>
+      <link>https://whereislucas.github.io/posts/blender2020-week1/</link>
       <pubDate>Sat, 04 Jan 2020 21:54:43 +0100</pubDate>
       
-      <guid>/posts/blender2020-week1/</guid>
+      <guid>https://whereislucas.github.io/posts/blender2020-week1/</guid>
       <description>I&#39;ll try to post 3D art every week here. This is the first creation I made this year with Blender.
 The main object with this project was to mess around with volumetrics lighting.
 This is rendered with eevee in Blender 2.8. I&#39;ll be happy to share the project files if asked!</description>
@@ -25,23 +25,23 @@ This is rendered with eevee in Blender 2.8. I&#39;ll be happy to share the proje
     
     <item>
       <title>Showcase</title>
-      <link>/showcase/</link>
+      <link>https://whereislucas.github.io/showcase/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/showcase/</guid>
+      <guid>https://whereislucas.github.io/showcase/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/about/</link>
+      <link>https://whereislucas.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>My name is Lucas Houssa and I&#39;m a curious guy from Belgium.
-I&#39;m a physics student at University of Liège, and besides I&#39;m a backend webdev. I mainly work with Laravel.
-I&#39;m also a 3D enthusiast that loves to mess around with Blender.
-As I like to share what I make, I created this little blog.</description>
+      <guid>https://whereislucas.github.io/about/</guid>
+      <description>Hi! My name is Lucas Houssa and I&#39;m a curious guy from Belgium.
+I&#39;m a physics student at University of Liège, and besides this, I do a lot of things. I&#39;m a webdev and sound engineer and I co-created RETINENS, a collective composed of creators and technicians of the audio-visual domain.
+I mainly work with Laravel for the webdev part, and my focus is on the backend.
+I&#39;m also a 3D enthusiast that loves to mess around with Blender in my freetime.</description>
     </item>
     
   </channel>
